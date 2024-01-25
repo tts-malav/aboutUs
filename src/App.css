@@ -1,0 +1,154 @@
+h1#c{
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-family: "PP Telegraf";
+  font-size: 96px;
+  text-align: center;
+  padding-top: 150px;
+}
+
+h1#r1{
+  font-family: "PP Telegraf";
+  font-size: 70px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 20px;
+}
+
+p#p1{
+  margin-right: 50px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgb(99, 114, 126);
+  font-size: 20px;
+  line-height: 30px;
+}
+
+p#p1team{
+  margin-right: 50px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgb(99, 114, 126);
+  font-size: 18px;
+}
+
+h4#text1{
+  margin: 68px 0px 0px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  text-align: center;
+}
+
+#hero-section {
+  height: 1000px;
+  width: 100%;
+  background-image: url("D:\\Coding\\React\\aboutus\\public\\desktop  hero image.png");
+  background-size: cover;
+}
+
+#longpic {
+  margin-top: 150px;
+  height: 525px;
+  width: 100%;
+  background-image: url("https://neevay.com/assets/business/web-aboutus-desktop-building.webp");
+  background-size: cover;
+}
+
+#logo{
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* #navbuttons{
+  margin-left: 940px;
+} */
+
+#l1{
+  border-radius: 15px;
+  background: url("https://neevay.com/assets/business/web-aboutus-desktop-handshake.webp");
+  background-size: cover;
+  margin-left: 55px;
+  height: 670px;
+}
+
+#l2{
+  margin-right: 90px;
+  border-radius: 15px;
+  background: url("https://neevay.com/assets/business/web-desktop-how-we-got-started-image.webp");
+  background-size: cover;
+  height: 670px;
+}
+
+#l3{
+  border-radius: 15px;
+  background: url("https://neevay.com/assets/business/web-aboutus-desktop-office.webp");
+  background-size: cover;
+  margin-left: 55px;
+  height: 670px;
+}
+
+#l4{
+  margin-right: 80px;
+  border-radius: 15px;
+  background: url("https://neevay.com/assets/business/web-aboutus-desktop-revolution.webp");
+  background-size: cover;
+  height: 670px;
+}
+
+#l5{
+  background: url("https://neevay.com//assets/business/web-aboutus-desktop-hanish.webp");
+  background-size: cover;
+  width: 450px;
+  height: 200px;
+  
+}
+
+#l6{
+  background: url("https://neevay.com//assets/business/web-aboutus-desktop-rohit.webp");
+  background-size: cover;
+  width: 450px;
+  height: 200px;
+}
+
+h1#team{
+  margin-top: 100px;
+  font-weight: 600;
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+h6#nametag{
+  margin: 6px 0px;
+  color: rgb(108, 116, 126);
+  font-family: "IBM Plex Mono";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19.6px;
+  letter-spacing: 1px;
+}
+
+#teampic{
+  width: 1210px;
+}
+
+p#backer{
+  line-height: 1.5;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgb(99, 114, 126);
+  font-size: 18px;
+}
+
+h6#backers{
+  font-family: Roboto, sans-serif;
+  font-weight: 600;
+}
+
+#ql{
+  text-decoration: none ;
+  color: black ;
+  font-size: 12px ;
+  font-weight: 600;
+}

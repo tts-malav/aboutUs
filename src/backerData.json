@@ -1,0 +1,32 @@
+[
+
+    {
+      "id": 1,
+      "imageSrc": "https://neevay.com//assets/business/web-aboutus-desktop-kaizad.webp",
+      "title": "Kaizad Engineer",
+      "text": "Recipient of the 2004 Indian Building Congress Award, an expert in Remedial Engineering in Construction, with extensive experience leading diverse projects, including Cement Plants, Steel Plants, Heritage Buildings, and Palaces. Published 36 research papers at National and International Symposia"
+    },
+
+    {
+        "id": 2,
+        "imageSrc": "https://neevay.com//assets/business/web-aboutus-desktop-sid.webp",
+        "title": "Siddharth Moorthy",
+        "text": "Prominent Real Estate Developer and leader in Construction. Acknowledged with awards including Sakal Achievers of Maharashtra and Femina Pune's Most Powerful Entrepreneur. Passionate about infrastructure projects, he mentors Hanish Raheja and addresses the vendor gap in Construction Projects."
+    },
+
+    {
+        "id": 3,
+        "imageSrc": "https://neevay.com//assets/business/web-aboutus-desktop-zubin.webp",
+        "title": "Zubin Engineer",
+        "text": "More than 28 years of experience handling Construction & Remedial Engineering Companies at front, he is a humble leader who believes in giving the best values to their customers through a great team and technology together."
+    },
+
+    {
+        "id": 4,
+        "imageSrc": "https://neevay.com//assets/business/web-aboutus-desktop-santosh.webp",
+        "title": "Santosh Sundararajan",
+        "text": "Veteran of Construction Industry, his experience of Construction Industry in Neevay's Board is invaluable due to his dynamic nature and experience of handling Construction Projects all over India in various sectors be it Infra, Real Estate, Hospitals, Hotels etc"
+    }
+    
+]
+  
