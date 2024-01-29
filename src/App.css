@@ -43,7 +43,7 @@ h4#text1{
 #hero-section {
   height: 1000px;
   width: 100%;
-  background-image: url("D:\\Coding\\React\\aboutus\\public\\desktop  hero image.png");
+  background-image: url('../public/desktop\ \ hero\ image.png');
   background-size: cover;
 }
 

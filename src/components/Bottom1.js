@@ -5,9 +5,9 @@ import '../App.css';
 const TwoSectionsPage1 = () => {
   return (
     <>
-    <div style={{ display: 'flex' }}>
+    <div className='my-12' style={{ display: 'flex' }}>
 
-      <div style={{ flex: 1, paddingLeft: '40px', marginRight: '10px' }}>
+      <div className='my-16' style={{ flex: 1, paddingLeft: '40px', marginRight: '10px' }}>
         <img src='https://neevay.com/assets/business/web-homepage-neevay-logo.svg' 
         alt='' 
         height="100px" 
@@ -20,24 +20,28 @@ const TwoSectionsPage1 = () => {
       Maharashtra - 411014</p>
       </div>
 
-      <div style={{ flex: 4, padding: '20px'}}>
+      <div className='mt-4' style={{ flex: 4, padding: '20px'}}>
         <div style={{display: 'flex', flexDirection: 'row'}} >
             <div style={{ flex: 1, padding: '20px'}}>
                 <h6 style={{fontWeight:'550'}}>General Enquiry</h6>
+                <br/>
                 <p>enquiry@neevay.com</p>
             </div>
             <div style={{ flex: 1, padding: '20px'}}>
                 <h6 style={{fontWeight:'550'}}>Looking for Demo</h6>
-                <p>demo@neevay.com
-                +919503339814</p>
+                <br/>
+                <p>demo@neevay.com</p>
+                <p>+919503339814</p>
             </div>
             <div style={{ flex: 1, padding: '20px'}}>
                 <h6 style={{fontWeight:'550'}}>Support</h6>
-                <p>support@neevay.com
-                +918604860478</p>
+                <br/>
+                <p>support@neevay.com</p>
+                <p>+918604860478</p>
             </div>
             <div style={{ flex: 1, padding: '20px'}}>
-                <div><h6 style={{fontWeight:'550'}}>Follow Us</h6></div>
+                <div className='mb-2'><h6 style={{fontWeight:'550'}}>Follow Us</h6></div>
+                <br/>
                 <div style={{ display: 'flex', flexDirection: 'row'}}> 
                     <div style={{ flex: 1}}>
                         <Link id="fb" to="/" >
@@ -78,8 +82,8 @@ const TwoSectionsPage1 = () => {
             </div>
         </div>
         <div>
-            <h6 style={{fontWeight:"550"}}>Quick Links</h6>
-            <div style={{display: 'flex', flexDirection: 'row'}} >
+            <h6 className='ml-3 my-3 ' style={{fontWeight:"550"}}>Quick Links</h6>
+            <div className='ml-3' style={{display: 'flex', flexDirection: 'row'}} >
                 <div style={{ flex: 1}}>
                     <Link id="ql" to="/">HOME</Link>
                 </div>
@@ -100,7 +104,7 @@ const TwoSectionsPage1 = () => {
       </div>
     </div>
 
-    <div style={{ textAlign: 'center' }}>
+    <div className='mb-4' style={{ textAlign: 'center' }}>
         <h6>Copyright @ 2023. All rights reserved by Tathaatvam Technologies Solutions Pvt. Ltd.</h6>
     </div>
 
